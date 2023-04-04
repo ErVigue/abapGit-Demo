@@ -1,2 +1,2 @@
 # abapGit-Demo
-This is an ABAPGIT demo
+This is an ABAPGIT demo.
